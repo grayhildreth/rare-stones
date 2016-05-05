@@ -2,3 +2,8 @@
   color: red;
   font-style: italic;
 }
+
+.highlight {
+  color: blue;
+  font-weight: bold;
+}
